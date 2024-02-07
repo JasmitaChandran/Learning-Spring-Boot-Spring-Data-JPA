@@ -1,1 +1,1 @@
-# -0-00-12-42-16-Learning-Spring-Boot-Spring-Data-JPA
+Learning-Spring-Boot-Spring-Data-JPA
